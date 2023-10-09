@@ -2,4 +2,4 @@
 
 https://github.com/Adilsha123/brecon-bootstrap
 
-brecon-bootstrap.netlify.app
+https://brecon-bootstrap.netlify.app
